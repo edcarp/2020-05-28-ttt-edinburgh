@@ -13,12 +13,10 @@ contact: ["lmichiel@exseed.ed.ac.uk"]    # boxed, comma-separated list of contac
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
- <!-- - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
 
   - venue: "University of Edinburgh"
     address: "Digital Scholarship Room, 6th Floor, Edinburgh University Main Library, Edinburgh"
-    latlng: "55.9426724,-3.1912242"
+    latlng: 55.9426724,-3.1912242
 
 ---
 
