@@ -15,7 +15,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 locations:
 
   - venue: "University of Edinburgh"
-    address: "Digital Scholarship Room, 6th Floor, Edinburgh University Main Library, Edinburgh"
+    address: "Digital Scholarship Centre, 6th floor, Main Library, University of Edinburgh, Edinburgh EH8 9LJ"
     latlng: 55.9426724,-3.1912242
 
 ---
