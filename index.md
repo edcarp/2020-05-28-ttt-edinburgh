@@ -14,9 +14,8 @@ etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
 
-  - venue: "University of Edinburgh"
-    address: "CRC Teaching Room, 6th floor, Main Library, University of Edinburgh, Edinburgh EH8 9LJ"
-    latlng: 55.9426724,-3.1912242
+  - venue: "Online"
+    address: "https://carpentries.zoom.us/j/FIXME"
 
 ---
 
