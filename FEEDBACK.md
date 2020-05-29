@@ -67,6 +67,8 @@ Day 2
 
 7. Feedback for ourselves when doing online instructor training - when people are in the breakout rooms they loose the view of the exercise slide - just make sure that the text of the exercise is replicated in Google doc/Etherpad and if you modify it in any way make sure those modifications are reflected in the shared doc too (e.g. if you ask them not to write feedback in the doc for example and do feedback verbally).
 
+8. When in breakout room, participants loose view of slide with exercise instruction
+
 # Feedback to us from learners
 
 ## What went well/what you liked/what tools/techniques are you excited about using?
