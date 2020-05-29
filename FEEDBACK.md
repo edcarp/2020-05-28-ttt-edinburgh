@@ -7,4 +7,4 @@
 
 4. Our example schedule with some lessons skipped and Q&A explicitly in the agenda
 
-5. GDPR issues when signing up for teaching demos/community discussions
+5. GDPR issues when signing up for teaching demos/community discussions and leaving email addresses around public Etherpads.
