@@ -134,26 +134,28 @@ detailed aspects of presenting, quite useful feedback
 
 
 Up
-Good morning session 
-Enjoyed the practice and getting feedback from peers, made me relaxed
-Liked breakout rooms, worked well
-Liked the course content
-Liked the whole ethos of the course, welcoming, easy to practice and set like that from the beginning
-Liked summary in slides highlighted in yellow
-Comprehensive material, granular, well designed
-Enjoyed the pedagogy lessons of the first day
-Breakouts useful for learning in particular for git exercise and building workshop websites
-Really good to have an opportunity to have a do-over and repeat an exercise and have a chance to correct mistakes
+
+- Good morning session 
+- Enjoyed the practice and getting feedback from peers, made me relaxed
+- Liked breakout rooms, worked well
+- Liked the course content
+- Liked the whole ethos of the course, welcoming, easy to practice and set like that from the beginning
+- Liked summary in slides highlighted in yellow
+- Comprehensive material, granular, well designed
+- Enjoyed the pedagogy lessons of the first day
+- Breakouts useful for learning in particular for git exercise and building workshop websites
+- Really good to have an opportunity to have a do-over and repeat an exercise and have a chance to correct mistakes
 
 Down
-Would like more educational theory
-More breakroom exercises 
-Sometimes difficult to know what to do in breakout rooms, a better explanations needed before splitting people into rooms
-Not sure what to do 100% of the time while in breakout rooms
-Needing  practical examples of mental models/concept maps/etc. ahead of the exercises
-Having time for exercise clearly set in advance
-Zoom has a feature where you can set a time limit when creating the breakout rooms so participants know how long they have left :)
-Record live coding exercise in Zoom - that would have been nice to see, also mix up groups for the second live coding exercise to get a bit more varied feedback from a different set of peers
-Missed the social interactions with people during the breaks, meeting new people and interacting with the ones he already knew
-A little bit more of implementation, how to retrieve answers from people, etc. despite having attended a few Carpentry workshops
+
+- Would like more educational theory
+- More breakroom exercises 
+- Sometimes difficult to know what to do in breakout rooms, a better explanations needed before splitting people into rooms
+- Not sure what to do 100% of the time while in breakout rooms
+- Needing  practical examples of mental models/concept maps/etc. ahead of the exercises
+- Having time for exercise clearly set in advance
+- Zoom has a feature where you can set a time limit when creating the breakout rooms so participants know how long they have left :)
+- Record live coding exercise in Zoom - that would have been nice to see, also mix up groups for the second live coding exercise to get a bit more varied feedback from a different set of peers
+- Missed the social interactions with people during the breaks, meeting new people and interacting with the ones he already knew
+- A little bit more of implementation, how to retrieve answers from people, etc. despite having attended a few Carpentry workshops
 
