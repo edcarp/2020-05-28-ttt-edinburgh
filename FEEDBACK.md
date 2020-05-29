@@ -64,3 +64,7 @@ Day 2
 16:30	Finish
 
 5. GDPR issues when signing up for teaching demos/community discussions and leaving email addresses around public Etherpads.
+
+6. CoC email not correct or needs checking (confidential@carpentries.org vs coc@carpentries.org)?
+
+
