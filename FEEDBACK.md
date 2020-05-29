@@ -69,6 +69,12 @@ Day 2
 
 8. When in breakout room, participants loose view of slide with exercise instruction
 
+9. Have a clearly set number of minutes for the exercises
+
+10. Have more concept maps incorporated in the teaching and/or exercise.
+
+11. The teaching demo on day 1 - make sure this is not a live codinc but sommething from people's individual fields.
+
 # Feedback to us from learners
 
 ## What went well/what you liked/what tools/techniques are you excited about using?
