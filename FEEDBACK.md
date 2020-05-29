@@ -90,10 +90,8 @@ Day 2
 …
 - When everyone is using google drive it gets a little bit confusing and difficult to use
 - I find google docs a bit clunky to use
-- The link to the 2018 annual report was broken - I had to google it
-^^ I submitted a PR for this on GitHub!
- google docs is a bit tricky to use together
-^^ I find there is a lot of lag
+- The link to the 2018 annual report was broken - I had to google it. I submitted a PR for this on GitHub!
+- google docs is a bit tricky to use together I find there is a lot of lag
 - Bit tricky to make concept models etc quickly on slides (for me anyway), but doing it on paper makes it quite difficult to share - maybe a little more time on some of these exercises, or encourage folks that pen/paper is still ok :)
 - The mental model section was difficult to visualise without examples, difficult to picture the level of detail or concepts to include +2
 - Providing an example diagram of a mental model before asking participants to create their own would be helpful +1
