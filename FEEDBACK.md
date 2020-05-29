@@ -85,6 +85,16 @@ Day 2
 - despite not being a face-to-face course, it went well and was mich more interactive than I expected and ran very smoothly +1
 - I liked the explanation making explicit the need to avoid overload 
 - I wasn’t looking forward to doing this over Zoom, but it’s working out better than I anticipated. I also like how the schedule has been modified to give us a bit more time out. (This is also useful practical experience for helping with our School’s shift to mostly online teaching in September!)
+- Learnt a lot. 
+- Granular insights into teaching/ learning practices - VERY useful to go through these considerations in such a structured / systematic format     
+- Lots of exercises and questions to engage the audience 
+- Good distribution of really useful content across the day, the episodes were well planned
+- The pace was great, appreciated the breaks and empathy for online call fatigue! Really liked the use of breakout rooms.
+- Good pace and instructors were very engaging
+- Enjoyed the exercises this afternoon - less scary than the morning ones :-)
+- zoom is tricky, but probably now is a good time to figure out how to do online teaching/learning
+- Useful coverage of pedagogy without burdening with too much information, very practical aspects to use in teaching.
+getting some theory was really useful
 
 ## What can be improved upon/what was confusing/what needs clarification?
 
@@ -105,4 +115,9 @@ Day 2
 - I wasn’t a fan of the mind mapping exercises as I’ve never found these ideas very useful, and my brain is mainly mush at present! (Actually, I think my brain is broken!) (Also a concrete example would have helped to get into the first exercise.) +1000000
 - Some more practical examples of some of the concepts would be helpful +1
 - Assigning a co-host in zoom can help you mute/manage participants :) 
-
+- Perhaps a slightly longer time for the practice exercise (currently, the 90-second practice). +1
+- The Zoom time limit countdowns were a bit stressful! (Similarly, 90 seconds is mentally hard to prepare for and present.)
+ ^ perhaps a longer countdown? or a timer for the total time in the room, I got caught out!
+- Practicing experience (incl. utility) via zoom is truly damaged by the inherent limitations - but it’s nothing to do with instructor training per se as nowadays there are many coercive factors in place we all have to deal with
+- Potentially could explain a little more what prep/format/aims the 90 second teaching might take (ie share screens, show lesson content?)
+  - Zoom format is difficult for teaching without live coding, difficult to have whiteboard style setup +1
