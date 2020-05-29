@@ -95,6 +95,11 @@ Day 2
 - zoom is tricky, but probably now is a good time to figure out how to do online teaching/learning
 - Useful coverage of pedagogy without burdening with too much information, very practical aspects to use in teaching.
 getting some theory was really useful
+- Very engaging and involved, presentation practice and open discussions have been useful to explore areas
+detailed aspects of presenting, quite useful feedback
+- very clear and practical grounded in experience
+- the reading homework suggested re: the live coding exercise helped give an idea of what was good to try and include/do, and re-doing the same live coding exercise was really useful practice
+- great that we had a second go with the practice
 
 ## What can be improved upon/what was confusing/what needs clarification?
 
@@ -120,4 +125,8 @@ getting some theory was really useful
  ^ perhaps a longer countdown? or a timer for the total time in the room, I got caught out!
 - Practicing experience (incl. utility) via zoom is truly damaged by the inherent limitations - but it’s nothing to do with instructor training per se as nowadays there are many coercive factors in place we all have to deal with
 - Potentially could explain a little more what prep/format/aims the 90 second teaching might take (ie share screens, show lesson content?)
-  - Zoom format is difficult for teaching without live coding, difficult to have whiteboard style setup +1
+- Zoom format is difficult for teaching without live coding, difficult to have whiteboard style setup +1
+- Perhaps a slightly longer practice could be considered, as that would tap into different areas, such as greater involvement of participants.
+- maybe a few more ‘online/remote’ live-coding tips would be handy to give people currently, as we’re likely to be doing more of this in future? 
+- The difficulties of live coding over zoom, it can sometimes be difficult to provide feedback that is not specific to the limitations of zoom +1
+
