@@ -87,7 +87,7 @@ Day 2
 - I wasn’t looking forward to doing this over Zoom, but it’s working out better than I anticipated. I also like how the schedule has been modified to give us a bit more time out. (This is also useful practical experience for helping with our School’s shift to mostly online teaching in September!)
 
 ## What can be improved upon/what was confusing/what needs clarification?
-…
+
 - When everyone is using google drive it gets a little bit confusing and difficult to use
 - I find google docs a bit clunky to use
 - The link to the 2018 annual report was broken - I had to google it. I submitted a PR for this on GitHub!
