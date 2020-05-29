@@ -102,6 +102,16 @@ detailed aspects of presenting, quite useful feedback
 - very clear and practical grounded in experience
 - the reading homework suggested re: the live coding exercise helped give an idea of what was good to try and include/do, and re-doing the same live coding exercise was really useful practice
 - great that we had a second go with the practice
+- Good morning session 
+- Enjoyed the practice and getting feedback from peers, made me relaxed
+- Liked breakout rooms, worked well
+- Liked the course content
+- Liked the whole ethos of the course, welcoming, easy to practice and set like that from the beginning
+- Liked summary in slides highlighted in yellow
+- Comprehensive material, granular, well designed
+- Enjoyed the pedagogy lessons of the first day
+- Breakouts useful for learning in particular for git exercise and building workshop websites
+- Really good to have an opportunity to have a do-over and repeat an exercise and have a chance to correct mistakes
 
 ## What can be improved upon/what was confusing/what needs clarification?
 
@@ -131,23 +141,6 @@ detailed aspects of presenting, quite useful feedback
 - Perhaps a slightly longer practice could be considered, as that would tap into different areas, such as greater involvement of participants.
 - maybe a few more ‘online/remote’ live-coding tips would be handy to give people currently, as we’re likely to be doing more of this in future? 
 - The difficulties of live coding over zoom, it can sometimes be difficult to provide feedback that is not specific to the limitations of zoom +1
-
-
-Up
-
-- Good morning session 
-- Enjoyed the practice and getting feedback from peers, made me relaxed
-- Liked breakout rooms, worked well
-- Liked the course content
-- Liked the whole ethos of the course, welcoming, easy to practice and set like that from the beginning
-- Liked summary in slides highlighted in yellow
-- Comprehensive material, granular, well designed
-- Enjoyed the pedagogy lessons of the first day
-- Breakouts useful for learning in particular for git exercise and building workshop websites
-- Really good to have an opportunity to have a do-over and repeat an exercise and have a chance to correct mistakes
-
-Down
-
 - Would like more educational theory
 - More breakroom exercises 
 - Sometimes difficult to know what to do in breakout rooms, a better explanations needed before splitting people into rooms
