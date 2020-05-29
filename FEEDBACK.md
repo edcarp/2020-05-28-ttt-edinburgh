@@ -5,7 +5,7 @@
 
 3. Current schedule is gruelling and 15 minutes breaks are not enough, and more material than can be covered.
 
-4. Our example schedule with some lessons skipped and Q&A explicitly in the agenda.
+4. Our example schedule with some lessons skipped (learners' profiles and Bloom's taxonomy) and Q&A explicitly in the agenda.
 
 Day 1
 
@@ -51,9 +51,7 @@ Day 2
 
 13:30	Checkout Process
 
-13:45 	The Carpentries: How We Operate
-
-14:30	Q & A session
+13:45 The Carpentries: How We Operate and Q & A session
 
 15:00	Afternoon Break
 
