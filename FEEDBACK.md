@@ -69,7 +69,7 @@ Day 2
 
 8. When in breakout room, participants loose view of slide with exercise instruction.
 
-9. Have a clearly set number of minutes for the exercises. Also use Zoom coundown timer for exercises in breakout rooms.
+9. Have a clearly set number of minutes for the exercises. Also use Zoom countdown timer for exercises in breakout rooms. Perhaps one future trainers call can be dedicated to going throught exercises and seeing how many minutes we think they take?
 
 10. Have more concept map and mental model examples incorporated in teaching to make it easier for people to do exercises.
 
