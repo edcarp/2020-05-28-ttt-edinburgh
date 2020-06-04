@@ -71,9 +71,9 @@ Day 2
 
 9. Have a clearly set number of minutes for the exercises
 
-10. Have more concept maps incorporated in the teaching and/or exercise.
+10. Have more concept map and mental model examples incorporated in teaching to make it easier for people to do exercises.
 
-11. The teaching demo on day 1 - make sure this is not a live codinc but sommething from people's individual fields.
+11. The teaching demo on day 1 - make sure this is not a live coding but something from people's individual fields or can be from a Carpentry lesson but not involving live coding (they should not even have to share their screens).
 
 # Feedback to us from learners
 
