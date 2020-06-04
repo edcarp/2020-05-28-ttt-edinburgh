@@ -3,7 +3,7 @@
 
 2. There a bit of confusion about teaching demo exercises - on day 1 afternnon and day 2 morning - a bit of repetition and perhaps time can be used better elsewhere? People were confused and started live coding on day 1 afernoon when they should have just taught a concept to their audience, perhaps from their concept map.
 
-3. Current schedule is gruelling and 15 minutes breaks are not enough, and more material than can be covered.
+3. Current schedule is gruelling and 15 minutes breaks are not enough, and more material available than can be covered.
 
 4. Our example schedule with some lessons skipped (learners' profiles and Bloom's taxonomy) and Q&A explicitly in the agenda.
 
@@ -67,7 +67,7 @@ Day 2
 
 7. Feedback for ourselves when doing online instructor training - when people are in the breakout rooms they loose the view of the exercise slide - just make sure that the text of the exercise is replicated in Google doc/Etherpad and if you modify it in any way make sure those modifications are reflected in the shared doc too (e.g. if you ask them not to write feedback in the doc for example and do feedback verbally).
 
-8. When in breakout room, participants loose view of slide with exercise instruction.
+8. When in breakout room, participants lose view of slide with exercise instruction.
 
 9. Have a clearly set number of minutes for the exercises. Also use Zoom countdown timer for exercises in breakout rooms. Perhaps one future trainers call can be dedicated to going throught exercises and seeing how many minutes we think they take?
 
