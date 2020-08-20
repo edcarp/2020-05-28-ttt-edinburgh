@@ -15,7 +15,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 locations:
 
   - venue: "Online"
-    address: "https://carpentries.zoom.us/my/carpentriesroom3"
 
 ---
 
