@@ -7,7 +7,7 @@ humandate: "May 28-29, 2020"    # human-readable dates for the workshop (e.g., "
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-05-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-05-29      # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Aleksandra Nenadic", "Alexander Konovalov"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Aleksandra Nenadic", "Olexandr Konovalov"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["lmichiel@exseed.ed.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:             # optional: URL for the workshop Etherpad if there is one
